@@ -1,0 +1,10 @@
+{
+  "name": "FloodCast AI",
+  "description": "Predict. Prepare. Protect. — AI-powered hyper-local flash flood prediction & disaster intelligence platform for India (SIH 2026).",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
